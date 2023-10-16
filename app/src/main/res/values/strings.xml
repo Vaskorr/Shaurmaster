@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Shaurmaster</string>
+    <string name="have_account"><u>Уже есть аккаунт? Войти</u></string>
+    <string name="dont_have_account"><u>Нет аккаунта? Регистрация</u></string>
 </resources>
